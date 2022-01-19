@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Flutter/Dart
 - 💞️ I’m looking to collaborate on Flutter Projects
-- 📫 How to reach me theaditmo@gmail.com
+- 📫 How to reach me aditmo@protonmail.com
 
 <!---
 aditmo/aditmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
