@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya Mohanty
-- 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning about Blockchain
-- 💞️ I’m looking to collaborate on Web 3 Projects
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning about ML/AI
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me aditmo@protonmail.com
 
 <!---
